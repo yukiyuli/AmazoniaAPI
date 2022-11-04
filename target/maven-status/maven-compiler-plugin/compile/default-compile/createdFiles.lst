@@ -1,0 +1,8 @@
+ca/vanier/amazoniaapi/entity/products.class
+ca/vanier/amazoniaapi/controller/ClientController.class
+ca/vanier/amazoniaapi/service/ClientService.class
+ca/vanier/amazoniaapi/repository/ClientRepository.class
+ca/vanier/amazoniaapi/service/ClientServiceImpl.class
+ca/vanier/amazoniaapi/entity/client.class
+ca/vanier/amazoniaapi/AmazoniaapiApplication.class
+ca/vanier/amazoniaapi/entity/client$clientBuilder.class

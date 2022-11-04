@@ -1,0 +1,7 @@
+/Users/yuki/Documents/Web service/amazoniaapi/src/main/java/ca/vanier/amazoniaapi/AmazoniaapiApplication.java
+/Users/yuki/Documents/Web service/amazoniaapi/src/main/java/ca/vanier/amazoniaapi/entity/products.java
+/Users/yuki/Documents/Web service/amazoniaapi/src/main/java/ca/vanier/amazoniaapi/service/ClientServiceImpl.java
+/Users/yuki/Documents/Web service/amazoniaapi/src/main/java/ca/vanier/amazoniaapi/service/ClientService.java
+/Users/yuki/Documents/Web service/amazoniaapi/src/main/java/ca/vanier/amazoniaapi/controller/ClientController.java
+/Users/yuki/Documents/Web service/amazoniaapi/src/main/java/ca/vanier/amazoniaapi/repository/ClientRepository.java
+/Users/yuki/Documents/Web service/amazoniaapi/src/main/java/ca/vanier/amazoniaapi/entity/client.java
